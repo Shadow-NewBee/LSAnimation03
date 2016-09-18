@@ -1,0 +1,2 @@
+# LSAnimation03
+这是一个使用transform.rotation做的一个小动画，通过点击按钮实现星星与小球跳跃与翻转的实现。
